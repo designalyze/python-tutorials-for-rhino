@@ -1,4 +1,6 @@
 #http://designalyze.com/int2pythonscripting00_macros
+#This first example is not really python code. These are Rhino commandline
+#commands. 
 Intro to Python Lesson 00: Macros!
 
 !_SelNone

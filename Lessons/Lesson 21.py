@@ -1,3 +1,5 @@
+#Python Workshop Lesson:21
+#http://designalyze.com/int2pythonscripting21_PolygonClass02
 import rhinoscriptsyntax as rs
 import math
 

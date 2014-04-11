@@ -1,0 +1,14 @@
+#http://designalyze.com/int2pythonscripting00_macros
+Intro to Python Lesson 00: Macros!
+
+!_SelNone
+_SelLast
+_Copy
+_Pause
+0,0,0
+0,0,1
+_Enter
+_SelLast
+_Rotate
+0,0,0
+10

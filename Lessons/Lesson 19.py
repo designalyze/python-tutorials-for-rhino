@@ -1,3 +1,4 @@
+#Python Workshop Lesson:19
 #http://designalyze.com/int2pythonscripting19_SimpleClass
 
 import rhinoscriptsyntax as rs

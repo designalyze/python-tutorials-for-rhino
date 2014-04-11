@@ -28,4 +28,7 @@ Video tutorials for all code samples can be found at [Designalyze](http://www.de
 * Lesson: 16	Import Points from CSV
 * Lesson: 17	Simple Growth
 * Lesson: 18	Simple Growth 02
+* Lesson: 19 	Simple Class
+* Lesson: 20	Polygon Class
+* Lesson: 21	Polygon Class Part 2
 

@@ -32,4 +32,5 @@ Video tutorials for all code samples can be found at [Designalyze](http://www.de
 * Lesson: 19 	[Simple Class](http://designalyze.com/int2pythonscripting19_SimpleClass)
 * Lesson: 20	[Polygon Class Part 1](http://designalyze.com/int2pythonscripting20_PolygonClass01)
 * Lesson: 21	[Polygon Class Part 2](http://designalyze.com/int2pythonscripting21_PolygonClass02)
+* Lesson: 22	[Divide Surface](http://www.designalyze.com/int2pythonscripting22_DivideSrf2pts)
 

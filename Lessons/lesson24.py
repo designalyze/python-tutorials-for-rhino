@@ -1,3 +1,5 @@
+#Python Workshop Lesson:24
+#http://designalyze.com/int2pythonscripting24_MoreRecursionPt2
 #cracking algorithm
 import rhinoscriptsyntax as rs
 import Rhino

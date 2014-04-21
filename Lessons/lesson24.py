@@ -17,12 +17,10 @@ def crackpolygon(pls, count):
             if rs.CloseCurve(pl) == False:
                 print "Not a closed curve"
             else:
-                #print "Cool"
                 centroid = rs.CurveAreaCentroid(pl)
                 centpt = rs.AddPoint(centroid[0])
                 curves = rs.ExplodeCurves(pl)
                 for crv in curves:
-                    #print crv
                     pt1 = rs.CurveStartPoint(crv)
                     pt2 = rs.CurveEndPoint(crv)
                     pts = []
@@ -35,7 +33,6 @@ def crackpolygon(pls, count):
                     rs.DeleteObject(crv)
                 cleanup = []
                 cleanup.append(centpt)
-                #cleanup.append(curves)
                 rs.DeleteObjects(cleanup)
         count = count - 1
         return crackpolygon(pls, count)

@@ -16,8 +16,7 @@ Video tutorials for all code samples can be found at [Designalyze](http://www.de
 * Lesson: 04	[Points and Curves](http://designalyze.com/int2pythonscripting04_listscurvetypes)
 * Lesson: 05	[For loops](http://designalyze.com/int2pythonscripting05_forloopandmath)
 * Lesson: 06	[Nested For Loops](http://designalyze.com/int2pythonscripting06_nestedloops-functions)
-* Lesson: 07	[If/Else](http://www.designalyze.com/int2pythonscripting07_controlflow01
-)
+* Lesson: 07	[If/Else](http://www.designalyze.com/int2pythonscripting07_controlflow01)
 * Lesson: 08	[If/Else Part 2](http://www.designalyze.com/int2pythonscripting08_controlflow02)
 * Lesson: 09	[Random Numbers](http://www.designalyze.com/int2pythonscripting09_RandomNum01)
 * Lesson: 10	[Random Numbers and Lines](http://www.designalyze.com/int2pythonscripting10_RandomNum02)
@@ -33,4 +32,6 @@ Video tutorials for all code samples can be found at [Designalyze](http://www.de
 * Lesson: 20	[Polygon Class Part 1](http://designalyze.com/int2pythonscripting20_PolygonClass01)
 * Lesson: 21	[Polygon Class Part 2](http://designalyze.com/int2pythonscripting21_PolygonClass02)
 * Lesson: 22	[Divide Surface](http://www.designalyze.com/int2pythonscripting22_DivideSrf2pts)
+* Lesson: 23  [More Recursion Koch Curve](http://designalyze.com/int2pythonscripting23_MoreRecursionPt1)
+* Lesson: 24  [More Recursion Cracking](http://designalyze.com/int2pythonscripting24_MoreRecursionPt2)
 

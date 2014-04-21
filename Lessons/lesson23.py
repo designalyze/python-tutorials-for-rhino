@@ -1,4 +1,4 @@
-#Python Workshop Lesson:22
+#Python Workshop Lesson:23
 #http://designalyze.com/int2pythonscripting23_MoreRecursionPt1
 #Koch Snowflake in python using recursion
 import rhinoscriptsyntax as rs

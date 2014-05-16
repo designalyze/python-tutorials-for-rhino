@@ -23,7 +23,7 @@ x = True
 x = False
  
 #Sequence Data Types
-x = "Helo World"
+x = "Hello World"
 x = 'Hello World'
 x = ['h', 'e', 'l', 'l', 'o']
 x = [1,2,3,4,5]
